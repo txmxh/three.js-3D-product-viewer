@@ -12,20 +12,24 @@ An **interactive 3D Product Viewer** built with **Three.js** that allows users t
 ✅ Fully responsive & optimized performance  
 
 ---
-
 ## 📂 Installation & Setup  
 ### 1️⃣ Clone the Repository  
 ```sh
 git clone https://github.com/txmxh/three.js-3D-product-viewer.git
 cd three.js-3D-product-viewer
+```
 
-2️⃣ Run a Local Server
+
+### 2️⃣ Run a Local Server
 If you're running locally, use:
 
-sh
+
 Copy code
+```sh
 npx http-server
+```
 Then open http://localhost:8080 in your browser.
 
 📁 3D Model Files
 The original 3D model files (.glb) are included in the models/ directory.
+
